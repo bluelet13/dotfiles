@@ -31,7 +31,6 @@ cask "android-platform-tools"
 
 # ~~ ios ~~
 brew "cocoapods"
-brew "swiftlint"
 
 # ~~ flutter ~~
 brew "usbmuxd", args: ["HEAD"]
@@ -83,6 +82,12 @@ cask "jetbrains-toolbox"
 cask "android-studio"
 cask "visual-studio-code"
 cask "sublime-text"
+
+# ===========================================
+#  Linter
+# ===========================================
+
+brew "swiftlint"
 
 # ============================================
 #  Mock & Code Gen
