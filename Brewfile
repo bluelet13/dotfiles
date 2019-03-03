@@ -89,7 +89,7 @@ cask "sublime-text"
 # ============================================
 
 brew "hugo"
-brew "swagger-codegen
+brew "openapi-generator"
 brew "stripe/stripe-mock/stripe-mock"
 
 # ============================================
