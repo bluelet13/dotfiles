@@ -54,7 +54,7 @@ cask "sourcetree"
 
 brew "awscli"
 brew "mas"
-brew "fastlane"
+cask "fastlane"
 
 # ============================================
 #  Media Tools
@@ -107,7 +107,7 @@ cask "google-chrome"
 cask "google-chrome-canary"
 cask "firefox"
 cask "firefox-nightly"
-brew "chromedriver"
+cask "chromedriver"
 
 # ============================================
 #  Chat & Message
