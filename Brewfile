@@ -3,7 +3,6 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
-tap "peco/peco"
 tap "stripe/stripe-mock"
 
 # ============================================
