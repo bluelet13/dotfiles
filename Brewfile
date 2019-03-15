@@ -51,6 +51,7 @@ cask "sourcetree"
 # ============================================
 
 brew "awscli"
+brew "aws-shell"
 brew "mas"
 cask "fastlane"
 
