@@ -141,4 +141,5 @@ cask "google-japanese-ime"
 cask "cyberduck"
 cask "clipy"
 cask "the-unarchiver"
+mas "Parallels Client", id: 600925318
 
