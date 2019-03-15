@@ -7,7 +7,7 @@ export CLICOLOR=true
 
 alias ll='ls -la'
 alias pzip='sh $HOME/dotfiles/shell/pzip.sh $1'
-
+alias translate='sh $HOME/dotfiles/shell/translate.sh $1'
 
 
 setopt correct
