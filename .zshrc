@@ -13,6 +13,10 @@ alias geocoding='sh $HOME/dotfiles/shell/geocoding.sh $1'
 
 setopt correct
 
+# == Prompt ===========================================
+
+export PROMPT='[%n@%m %~] $ '
+
 # == compinit =========================================
 autoload -U compinit; compinit
 setopt auto_list
